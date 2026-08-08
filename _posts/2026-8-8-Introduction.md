@@ -8,7 +8,7 @@ image:
  src: noflowpls/noflow.jpeg
  alt: noflowpls
  width: 850
- height: 150
+ height: 160
 ---
 
 ## Whoami
