@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://noflowpls101-eng.github.io/noflowpls/sitemap.xml
