@@ -29,7 +29,8 @@ description: >-                        # used by seo meta and the atom feed
   Will just share daily or weekely jounral on my memecoin run, and also my boring lifestyle.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://noflowpls'
+url: 'https://noflowpls101-eng.github.io'
+baseurl: '/noflowpls'
 
 github:
   username: noflowpls101-eng            # change to your github username
