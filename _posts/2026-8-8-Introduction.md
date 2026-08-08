@@ -1,7 +1,5 @@
 ---
 title: Intro - noflowpls
-description: From noflowpls
-author: noflowpls
 date: 2026-8-8 19:00:00 +0630
 categories: [Intro, Introduction]
 tags: [whoami, intro]     # TAG names should always be lowercase
