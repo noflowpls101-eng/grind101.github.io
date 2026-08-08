@@ -7,8 +7,8 @@ img_path: /assets/img/
 image:
  src: noflowpls/noflow.jpeg
  alt: noflowpls
- width: 1000
- height: 200
+ width: 850
+ height: 150
 ---
 
 ## Whoami
